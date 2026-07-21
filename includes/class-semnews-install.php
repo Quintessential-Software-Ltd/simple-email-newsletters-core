@@ -2,7 +2,7 @@
 /**
  * Installation, upgrades and lifecycle hooks.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -382,7 +382,7 @@ class SEMNEWS_Install {
 	public static function cron_schedules( $schedules ) {
 		$schedules['semnews_five_minutes'] = array(
 			'interval' => 5 * MINUTE_IN_SECONDS,
-			'display'  => __( 'Every 5 minutes (Simple Email Newsletters)', 'quintessential-newsletters' ),
+			'display'  => __( 'Every 5 minutes (Quintessential Newsletters)', 'quintessential-newsletters' ),
 		);
 		return $schedules;
 	}

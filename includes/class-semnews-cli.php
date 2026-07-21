@@ -11,7 +11,7 @@
  *   wp semnews license
  *   wp semnews deliverability
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

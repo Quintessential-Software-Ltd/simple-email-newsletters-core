@@ -2,7 +2,7 @@
 /**
  * Campaign (newsletter) data access.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

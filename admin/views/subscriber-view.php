@@ -3,7 +3,7 @@
  * Single-subscriber detail screen: full record + consent history (the plugin's
  * GDPR Art. 7 proof), with per-subscriber actions.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var object $subscriber Subscriber row.
  * @var array  $history    Consent log entries (newest first).
  */

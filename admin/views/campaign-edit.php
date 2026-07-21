@@ -2,7 +2,7 @@
 /**
  * Campaign editor / sender screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var object|null $campaign Existing campaign or null for new.
  */
 

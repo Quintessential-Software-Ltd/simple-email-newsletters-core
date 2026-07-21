@@ -2,7 +2,7 @@
 /**
  * Subscribers admin list table.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

@@ -2,7 +2,7 @@
 /**
  * Setup wizard (3 steps).
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var int   $step     Current step (1-3).
  * @var array $settings Current settings.
  */
@@ -21,7 +21,7 @@ $semnews_skip_url   = admin_url( 'admin.php?page=semnews-dashboard' );
 $semnews_site_host  = SEMNEWS_Deliverability::site_domain();
 ?>
 <div class="wrap semnews-wrap semnews-setup">
-	<h1><?php esc_html_e( 'Welcome to Simple Email Newsletters', 'quintessential-newsletters' ); ?></h1>
+	<h1><?php esc_html_e( 'Welcome to Quintessential Newsletters', 'quintessential-newsletters' ); ?></h1>
 	<p class="description"><?php esc_html_e( 'Three quick steps and you are ready to send honest, GDPR-friendly newsletters.', 'quintessential-newsletters' ); ?></p>
 
 	<ol class="semnews-wizard-steps">

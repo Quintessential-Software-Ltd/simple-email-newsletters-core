@@ -2,7 +2,7 @@
 /**
  * Subscriber data access and double opt-in lifecycle.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

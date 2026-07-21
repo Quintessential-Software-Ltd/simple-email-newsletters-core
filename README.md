@@ -1,11 +1,11 @@
-> **This is the public mirror of the free Simple Email Newsletters plugin.**
+> **This is the public mirror of the free Quintessential Newsletters plugin.**
 > The free core is developed in the open — full source, test suite and build tools.
 > The commercial Pro add-on and the licensing server live in a private repository;
 > Pro is sold from [quintessentialsoftware.co.uk](https://quintessentialsoftware.co.uk/).
 > Issues and pull requests are welcome here. The mirror is synced as a single
 > commit per release, so long-running forks should rebase onto the latest sync.
 
-# Simple Email Newsletters
+# Quintessential Newsletters
 
 
 

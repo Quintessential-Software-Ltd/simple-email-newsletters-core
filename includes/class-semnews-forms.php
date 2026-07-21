@@ -6,7 +6,7 @@
  * submissions. Anti-spam: honeypot field, minimum render-time check, per-IP
  * rate limiting. Anti-CSRF: nonce. The consent checkbox is never pre-ticked.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

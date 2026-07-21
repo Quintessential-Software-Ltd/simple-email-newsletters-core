@@ -2,7 +2,7 @@
 /**
  * Gutenberg block registration (server-rendered, no build step required).
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

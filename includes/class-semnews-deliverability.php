@@ -7,7 +7,7 @@
  * "deliverability test" to the site owner so they can inspect the real headers
  * their mailbox provider sees. Everything here is read-only DNS + one test email.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

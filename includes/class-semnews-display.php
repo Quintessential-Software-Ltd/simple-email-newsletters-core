@@ -11,7 +11,7 @@
  * sticky bar) via the semnews_display_defaults / semnews_display_sanitize filters and
  * the semnews_display_sections action on the settings screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

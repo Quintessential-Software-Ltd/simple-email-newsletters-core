@@ -2,7 +2,7 @@
 /**
  * Bounce/complaint webhook: provider auto-detection + authentication.
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

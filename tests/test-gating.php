@@ -5,7 +5,7 @@
  * Simple layout instead of breaking. Pure core — this file also runs in the
  * public core mirror, where the Pro add-on files do not exist.
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

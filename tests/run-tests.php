@@ -4,7 +4,7 @@
  *
  * Exits non-zero on any failure so CI can gate on it.
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

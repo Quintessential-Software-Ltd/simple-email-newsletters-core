@@ -9,7 +9,7 @@
  * and that SEMNEWS_Campaigns::sanitize_body() runs through wp_kses before storage —
  * so nothing here is trusted blindly.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

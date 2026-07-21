@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Simple Email Newsletters
+ * Plugin Name:       Quintessential Newsletters
  * Plugin URI:        https://github.com/Quintessential-Software-Ltd/quintessential-newsletters-core
  * Description:       Honest, GDPR-friendly newsletters for WordPress. Double opt-in and consent logging as standard. Unlimited subscribers, free.
  * Version:           2.5.1
@@ -13,7 +13,7 @@
  * Text Domain:       quintessential-newsletters
  * Domain Path:       /languages
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 // Abort if this file is called directly.
@@ -148,12 +148,12 @@ function semnews_boot() {
 		semnews();
 	} catch ( \Throwable $e ) {
 		// phpcs:ignore WordPress.PHP.DevelopmentFunctions.error_log_error_log -- surfacing a genuine boot failure to the server log.
-		error_log( 'Simple Email Newsletters could not start: ' . $e->getMessage() );
+		error_log( 'Quintessential Newsletters could not start: ' . $e->getMessage() );
 		add_action(
 			'admin_notices',
 			function () use ( $e ) {
 				echo '<div class="notice notice-error"><p><strong>';
-				esc_html_e( 'Simple Email Newsletters could not start.', 'quintessential-newsletters' );
+				esc_html_e( 'Quintessential Newsletters could not start.', 'quintessential-newsletters' );
 				echo '</strong> ';
 				echo esc_html( $e->getMessage() );
 				echo '</p></div>';

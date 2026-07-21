@@ -2,7 +2,7 @@
 /**
  * Shared helper functions.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

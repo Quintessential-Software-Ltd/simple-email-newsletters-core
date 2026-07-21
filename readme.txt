@@ -1,4 +1,4 @@
-=== Simple Email Newsletters ===
+=== Quintessential Newsletters ===
 Contributors: quintessentialsoftware
 Tags: newsletter, email, subscribers, gdpr, double opt-in
 Requires at least: 5.8
@@ -12,7 +12,7 @@ Honest, GDPR-friendly newsletters for WordPress. Double opt-in and consent loggi
 
 == Description ==
 
-Simple Email Newsletters is a deliberately simple newsletter plugin built around **honest email**. Unlimited subscribers, unlimited sending, and every feature you need to collect real, informed consent and treat subscribers with respect — free. We never paywall trust, and we never cap your list.
+Quintessential Newsletters is a deliberately simple newsletter plugin built around **honest email**. Unlimited subscribers, unlimited sending, and every feature you need to collect real, informed consent and treat subscribers with respect — free. We never paywall trust, and we never cap your list.
 
 *A note on the law: no plugin can make your newsletter legally compliant by itself. This plugin gives you strong defaults, consent records and plain-language guidance — it is not legal advice.*
 
@@ -113,7 +113,7 @@ Nothing is taken away and nothing is unlocked — this plugin is already complet
 == Changelog ==
 
 = 2.5.1 =
-* Renamed the plugin to **Simple Email Newsletters** and corrected the translation text domain to `quintessential-newsletters` so it matches the WordPress.org plugin slug — community translations now load out of the box.
+* Renamed the plugin to **Quintessential Newsletters** and corrected the translation text domain to `quintessential-newsletters` so it matches the WordPress.org plugin slug — community translations now load out of the box.
 * Standardised every code identifier on the `semnews` prefix (functions, classes, options, database tables, hooks, the `[semnews_newsletter]` shortcode and the `wp semnews` WP-CLI commands). Existing subscribers, campaigns, settings and secrets are migrated in place automatically on upgrade — nothing is lost. If you hooked the plugin's actions/filters or used the shortcode or CLI, update those names to the new prefix.
 
 = 2.5.0 =

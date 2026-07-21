@@ -2,7 +2,7 @@
 /**
  * Subscribers screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

@@ -9,7 +9,7 @@
  * crash mid-batch never double-sends. Each batch also respects a wall-clock
  * budget so shared hosts don't kill the request mid-flight.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

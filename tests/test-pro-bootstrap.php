@@ -9,7 +9,7 @@
  *
  * Mirror-safe: skips itself when the Pro add-on is absent (public core).
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

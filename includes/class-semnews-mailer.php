@@ -7,7 +7,7 @@
  * List-Unsubscribe / List-Unsubscribe-Post headers so that mailbox providers
  * can offer one-click unsubscribe.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

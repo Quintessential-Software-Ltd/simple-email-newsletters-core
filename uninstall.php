@@ -14,7 +14,7 @@
  * alongside the current "semnews_" ones, in case the plugin is removed without
  * the rename migration ever running.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {

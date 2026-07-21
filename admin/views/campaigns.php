@@ -2,7 +2,7 @@
 /**
  * Campaigns (newsletters) list screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

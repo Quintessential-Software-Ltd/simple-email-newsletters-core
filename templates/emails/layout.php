@@ -2,7 +2,7 @@
 /**
  * Shared HTML email layout.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var string $title     Email title.
  * @var string $content   Inner HTML content.
  * @var string $footer    Footer HTML (sender identity + unsubscribe).

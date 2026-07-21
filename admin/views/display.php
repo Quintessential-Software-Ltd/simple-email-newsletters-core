@@ -2,7 +2,7 @@
 /**
  * Display & placement screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var array $config Current display configuration.
  */
 

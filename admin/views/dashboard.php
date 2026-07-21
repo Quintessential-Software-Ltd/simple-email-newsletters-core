@@ -2,7 +2,7 @@
 /**
  * Dashboard screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var array $counts Subscriber counts by status (passed from SEMNEWS_Admin).
  */
 

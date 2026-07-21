@@ -5,7 +5,7 @@
  * license verification) can be exercised with plain `php tests/run-tests.php`
  * — no WordPress install or PHPUnit required.
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

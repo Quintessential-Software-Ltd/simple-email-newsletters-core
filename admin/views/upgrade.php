@@ -5,7 +5,7 @@
  * Benefit-led but honest: it sells what Pro actually does today, labels
  * roadmap items as roadmap, and never implies the free plugin is limited.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -94,7 +94,7 @@ $semnews_features = array(
 	</div>
 
 	<div class="semnews-panel" style="max-width:48em;">
-		<h2><?php esc_html_e( 'Get Simple Email Newsletters Pro', 'quintessential-newsletters' ); ?></h2>
+		<h2><?php esc_html_e( 'Get Quintessential Newsletters Pro', 'quintessential-newsletters' ); ?></h2>
 		<p class="semnews-price">
 			<span class="semnews-price-amount"><?php esc_html_e( '$5', 'quintessential-newsletters' ); ?></span>
 			<span class="semnews-price-period"><?php esc_html_e( '/ month', 'quintessential-newsletters' ); ?></span>

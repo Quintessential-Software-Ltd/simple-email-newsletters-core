@@ -2,7 +2,7 @@
 /**
  * Admin controller: menus, screens, asset loading and action handlers.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

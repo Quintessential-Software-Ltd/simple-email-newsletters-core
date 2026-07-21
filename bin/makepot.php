@@ -129,7 +129,7 @@ $pot  = <<<HEAD
 # This file is distributed under the GPL-2.0-or-later license.
 msgid ""
 msgstr ""
-"Project-Id-Version: Simple Email Newsletters\\n"
+"Project-Id-Version: Quintessential Newsletters\\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/quintessential-newsletters\\n"
 "Last-Translator: \\n"
 "Language-Team: \\n"

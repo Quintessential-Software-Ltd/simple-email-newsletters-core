@@ -6,7 +6,7 @@
  * callback. The settings screen renders the fields itself (admin/views/settings.php)
  * and relies on settings_fields() for the nonce + option group plumbing.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

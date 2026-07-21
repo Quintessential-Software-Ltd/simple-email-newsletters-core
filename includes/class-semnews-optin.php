@@ -7,7 +7,7 @@
  * unsubscribe also accepts POST (RFC 8058 List-Unsubscribe-Post) with no login
  * and no friction.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

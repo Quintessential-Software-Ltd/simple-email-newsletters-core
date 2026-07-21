@@ -4,7 +4,7 @@
  * conversion (the preview text must survive into both MIME parts, and the
  * invisible padding must survive into neither).
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

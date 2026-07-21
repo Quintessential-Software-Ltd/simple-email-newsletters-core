@@ -2,7 +2,7 @@
 /**
  * Main plugin orchestrator.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

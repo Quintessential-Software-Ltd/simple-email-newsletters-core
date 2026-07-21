@@ -2,7 +2,7 @@
 /**
  * Classic widget wrapping the subscription form.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

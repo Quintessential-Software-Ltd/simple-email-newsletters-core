@@ -2,7 +2,7 @@
 /**
  * Settings screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var array $settings Current settings (merged with defaults).
  */
 

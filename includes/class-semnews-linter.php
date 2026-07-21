@@ -7,7 +7,7 @@
  * caps, image-only emails with no real text, a missing preheader). Warnings are
  * shown in the composer (and the Pro add-on's automation screen); the sender decides.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

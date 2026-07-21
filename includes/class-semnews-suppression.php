@@ -8,7 +8,7 @@
  * always opt back in themselves with fresh consent (which clears their hash);
  * the suppression list only stops the *site owner* from re-adding them.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

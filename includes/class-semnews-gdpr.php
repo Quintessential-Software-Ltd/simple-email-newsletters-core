@@ -8,7 +8,7 @@
  * text and a daily job that purges stale, unconfirmed signups (data
  * minimisation / storage limitation, Art. 5(1)(c)/(e)).
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -203,7 +203,7 @@ class SEMNEWS_GDPR {
 			esc_html__( 'We use double opt-in: you must click a confirmation link before you receive anything. You can unsubscribe at any time using the link in every email, and you can ask us to export or delete your data at any time.', 'quintessential-newsletters' )
 		);
 
-		wp_add_privacy_policy_content( __( 'Simple Email Newsletters', 'quintessential-newsletters' ), $content );
+		wp_add_privacy_policy_content( __( 'Quintessential Newsletters', 'quintessential-newsletters' ), $content );
 	}
 
 	/**

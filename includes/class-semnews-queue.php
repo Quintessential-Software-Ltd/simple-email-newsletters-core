@@ -9,7 +9,7 @@
  * stale claims to pending. Failed attempts back off before retrying and stop
  * for good after MAX_ATTEMPTS.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

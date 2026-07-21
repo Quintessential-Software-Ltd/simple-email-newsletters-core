@@ -5,7 +5,7 @@
  * (automated sending is a Pro feature), so this file is mirror-safe: it
  * skips itself when the add-on is absent (public core).
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

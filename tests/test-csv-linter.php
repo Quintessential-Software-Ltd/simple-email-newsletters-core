@@ -2,7 +2,7 @@
 /**
  * CSV formula-injection guard + honesty linter.
  *
- * @package SimpleEmailNewsletters\Tests
+ * @package QuintessentialNewsletters\Tests
  */
 
 // phpcs:ignoreFile

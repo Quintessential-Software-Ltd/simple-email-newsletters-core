@@ -2,7 +2,7 @@
 /**
  * Double opt-in confirmation email body.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var object $subscriber   Subscriber row.
  * @var string $confirm_url  Tokenised confirmation URL.
  * @var string $company      Company / sender name.

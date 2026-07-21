@@ -6,7 +6,7 @@
  * for any subscriber, exactly what they agreed to, when, and from where
  * (GDPR Art. 7(1) — the controller must be able to demonstrate consent).
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

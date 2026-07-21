@@ -2,7 +2,7 @@
 /**
  * Welcome email body (sent after confirmation).
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var object $subscriber   Subscriber row.
  * @var string $company      Company / sender name.
  * @var string $custom_intro Optional owner-written intro (replaces the default paragraph).

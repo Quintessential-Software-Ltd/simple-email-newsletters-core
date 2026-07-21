@@ -14,7 +14,7 @@
  *
  * Map any ESP-specific payload to that shape with the `semnews_webhook_payload` filter.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

@@ -2,7 +2,7 @@
 /**
  * Deliverability health screen.
  *
- * @package SimpleEmailNewsletters
+ * @package QuintessentialNewsletters
  * @var array $report Result of SEMNEWS_Deliverability::report().
  */
 
