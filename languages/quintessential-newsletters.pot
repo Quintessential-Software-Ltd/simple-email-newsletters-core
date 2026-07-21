@@ -1,0 +1,1890 @@
+# Copyright (C) Quintessential Software Ltd
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Email Newsletters\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/quintessential-newsletters\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-16 13:43+0000\n"
+"X-Domain: quintessential-newsletters\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/views/upgradephp:99
+msgid "$5"
+msgstr ""
+
+#: admin/class-semnews-adminphp:483
+msgid "$5/month, billed annually. Everything in the free plugin stays free and unlimited."
+msgstr ""
+
+#: admin/class-semnews-adminphp:887
+msgid "%s newsletter"
+msgstr ""
+
+#: admin/views/campaign-editphp:91
+msgid "%s send failed so far."
+msgid_plural "%s sends failed so far."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/views/campaign-editphp:83
+msgid "(Paused)"
+msgstr ""
+
+#: admin/views/deliverabilityphp:65
+msgid "(no From address set)"
+msgstr ""
+
+#: admin/views/campaignsphp:50
+msgid "(no subject)"
+msgstr ""
+
+#: admin/views/settingsphp:220
+msgid "(or HTTP Basic Auth with the secret as the password) — this keeps the secret out of server logs."
+msgstr ""
+
+#: admin/views/campaign-editphp:115
+msgid "(shown next to the subject in the inbox list — deliberately invisible inside the opened email)"
+msgstr ""
+
+#: admin/views/upgradephp:100
+msgid "/ month"
+msgstr ""
+
+#: includes/class-semnews-widgetphp:25
+msgid "A GDPR-friendly double opt-in newsletter signup form."
+msgstr ""
+
+#: includes/class-semnews-templatesphp:46
+msgid "A clean single column: each post as a heading, short excerpt and a read-more link."
+msgstr ""
+
+#: admin/views/upgradephp:45
+msgid "A list that stays clean by itself"
+msgstr ""
+
+#: admin/views/dashboardphp:29
+msgid "A physical postal address is set"
+msgstr ""
+
+#: admin/views/dashboardphp:34
+msgid "A privacy policy page is linked"
+msgstr ""
+
+#: templates/emails/welcomephp:54
+msgid "A promise: we only send what you signed up for, we never share your address, and every email includes a one-click unsubscribe link — no login, no questions."
+msgstr ""
+
+#: admin/views/setupphp:60
+msgid "A real inbox a person reads."
+msgstr ""
+
+#: admin/views/upgradephp:61
+msgid "A real person when it matters"
+msgstr ""
+
+#: admin/views/settingsphp:221
+msgid "A secret in the URL can appear in server/proxy logs."
+msgstr ""
+
+#: admin/views/campaign-editphp:189
+msgid "A separate Pro add-on adds a template gallery — Cards, Magazine, Plain text, Announcement and Compact digest, plus write-your-own Custom HTML — each topped with your brand logo."
+msgstr ""
+
+#: admin/class-semnews-adminphp:442
+msgid "A separate Pro add-on adds disposable-email blocking, a reminder to unconfirmed signups, a public newsletter archive, and a WooCommerce checkout opt-in. Free already blocks bots, dead mail domains and confirmation bombing."
+msgstr ""
+
+#: admin/class-semnews-adminphp:444
+msgid "A separate Pro add-on adds disposable-email blocking, a reminder to unconfirmed signups, and a public newsletter archive. Free already blocks bots, dead mail domains and confirmation bombing."
+msgstr ""
+
+#: admin/class-semnews-adminphp:344
+msgid "A separate Pro add-on adds sending from multiple named identities, targeting by lists and tags, and sending only to engaged subscribers."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1144
+msgid "A short intro line looks like this."
+msgstr ""
+
+#: admin/views/upgradephp:37
+msgid "A template for every kind of send"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1298
+msgid "Action applied."
+msgstr ""
+
+#: admin/views/deliverabilityphp:17
+msgid "Action needed"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:88
+msgid "Actions"
+msgstr ""
+
+#: admin/views/subscribersphp:52
+msgid "Add a subscriber"
+msgstr ""
+
+#: admin/views/campaign-editphp:62
+msgid "Add it in Settings"
+msgstr ""
+
+#: admin/views/subscribersphp:86
+msgid "Add subscriber"
+msgstr ""
+
+#: admin/views/dashboardphp:112
+msgid "Add the signup form to a page using the"
+msgstr ""
+
+#: admin/views/deliverabilityphp:121
+msgid "Add these TXT records at your DNS host, then click Re-check. Review them for your own sending services first."
+msgstr ""
+
+#: admin/views/settingsphp:216
+msgid "Add this URL to your email provider’s bounce/complaint webhook. The plugin auto-detects SendGrid, Amazon SES (SNS), Mailgun and Postmark — hard bounces and spam complaints go straight onto your suppression list. A custom service can also POST {\"event\":\"bounce|complaint|soft_bounce\",\"email\":\"…\"}."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1310
+msgid "Add your physical postal address in Settings before sending — it is legally required in every newsletter."
+msgstr ""
+
+#: admin/class-semnews-adminphp:413
+msgid "Adding your own logo to every gallery template and to the confirmation and welcome emails is available in the separate Pro add-on."
+msgstr ""
+
+#: admin/views/displayphp:46
+msgid "After / within post content"
+msgstr ""
+
+#: admin/views/displayphp:59
+msgid "After a paragraph"
+msgstr ""
+
+#: admin/views/displayphp:56
+msgid "After the content"
+msgstr ""
+
+#: admin/views/deliverabilityphp:79
+msgid "Aligned — best for trust and DMARC."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:157
+msgid "All statuses"
+msgstr ""
+
+#: includes/functionsphp:32
+msgid "Almost done! Please check your inbox and click the confirmation link to complete your subscription."
+msgstr ""
+
+#: admin/views/dashboardphp:123
+msgid "An honest newsletter at a glance. Aim for all green."
+msgstr ""
+
+#: admin/views/setupphp:65
+msgid "Anti-spam law requires a real postal address in every newsletter. It is shown in the footer and builds trust."
+msgstr ""
+
+#: admin/views/settingsphp:219
+msgid "Authenticate the request (pick one):"
+msgstr ""
+
+#: admin/views/campaignsphp:52
+msgid "Automated"
+msgstr ""
+
+#: includes/class-semnews-linterphp:42
+msgid "Avoid starting with “Re:” or “Fwd:” unless this really is a reply. Fake reply prefixes feel deceptive and can hurt deliverability."
+msgstr ""
+
+#: admin/views/campaign-editphp:53 admin/views/subscriber-viewphp:37
+msgid "Back to list"
+msgstr ""
+
+#: admin/views/dashboardphp:136
+msgid "Based on the strictest common requirements across GDPR/PECR (EU & UK), CAN-SPAM (US), CASL (Canada) and the Spam Act (Australia). These laws follow where your subscribers live, not where you are — so meeting all of them at once is the safe default. This is guidance, not legal advice."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:45
+msgid "Basis"
+msgstr ""
+
+#: admin/views/displayphp:58
+msgid "Before and after"
+msgstr ""
+
+#: admin/views/displayphp:57
+msgid "Before the content"
+msgstr ""
+
+#: admin/views/upgradephp:102
+msgid "Billed annually ($60 per year, per site) — less than a single coffee a month, including every update, every roadmap feature and priority support."
+msgstr ""
+
+#: admin/views/upgradephp:77
+msgid "Billed annually ($60 per year, per site). Full details below."
+msgstr ""
+
+#: includes/class-semnews-subscribersphp:61
+msgid "Bounced"
+msgstr ""
+
+#: admin/views/settingsphp:209
+msgid "Bounces & complaints"
+msgstr ""
+
+#: admin/class-semnews-adminphp:409
+msgid "Brand logo"
+msgstr ""
+
+#: admin/views/campaign-editphp:210
+msgid "Build content"
+msgstr ""
+
+#: admin/views/campaign-editphp:163
+msgid "Build from posts"
+msgstr ""
+
+#: admin/views/displayphp:41
+msgid "Button label"
+msgstr ""
+
+#: admin/views/upgradephp:106
+msgid "Buy Pro"
+msgstr ""
+
+#: admin/views/upgradephp:75
+msgid "Buy Pro — $5/month"
+msgstr ""
+
+#: admin/views/campaign-editphp:261
+msgid "Cancel schedule"
+msgstr ""
+
+#: admin/views/campaign-editphp:199
+msgid "Category"
+msgstr ""
+
+#: admin/views/dashboardphp:117
+msgid "Check deliverability"
+msgstr ""
+
+#: admin/views/deliverabilityphp:72
+msgid "Checks"
+msgstr ""
+
+#: admin/views/displayphp:23
+msgid "Choose where your signup form appears. Every placement reuses your existing form and double opt-in, ships off by default, and is never shown to someone who has already subscribed."
+msgstr ""
+
+#: includes/class-semnews-optinphp:171
+msgid "Click below to unsubscribe. You will not receive any further newsletters."
+msgstr ""
+
+#: admin/views/settingsphp:57 admin/views/setupphp:67
+msgid "Company / sender name"
+msgstr ""
+
+#: admin/views/dashboardphp:122
+msgid "Compliance status"
+msgstr ""
+
+#: templates/emails/confirmationphp:42 includes/class-semnews-optinphp:138
+msgid "Confirm my subscription"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:30 includes/class-semnews-gdprphp:103
+msgid "Confirmation IP"
+msgstr ""
+
+#: admin/views/settingsphp:129
+msgid "Confirmation email"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:48 includes/class-semnews-optinphp:291
+msgid "Confirmed"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:27 includes/class-semnews-gdprphp:111
+msgid "Confirmed at"
+msgstr ""
+
+#: admin/views/dashboardphp:92
+msgid "Confirmed subscribers"
+msgstr ""
+
+#: admin/views/setupphp:17
+msgid "Consent"
+msgstr ""
+
+#: includes/class-semnews-subscribersphp:46
+msgid "Consent (opt-in)"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:59
+msgid "Consent history"
+msgstr ""
+
+#: admin/views/dashboardphp:49
+msgid "Consent records are kept"
+msgstr ""
+
+#: admin/views/settingsphp:143 admin/views/setupphp:85 admin/views/subscriber-viewphp:31 includes/class-semnews-gdprphp:148
+msgid "Consent text"
+msgstr ""
+
+#: includes/class-semnews-gdprphp:95
+msgid "Consent text agreed to"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:32
+msgid "Consent version"
+msgstr ""
+
+#: admin/views/campaign-editphp:128
+msgid "Content"
+msgstr ""
+
+#: admin/views/setupphp:92
+msgid "Continue"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1054
+msgid "Copy of %s"
+msgstr ""
+
+#: admin/views/deliverabilityphp:120
+msgid "Copy-paste DNS records"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1318
+msgid "Could not send the deliverability test. Check your From address."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1314
+msgid "Could not send the test email. Check the address."
+msgstr ""
+
+#: admin/views/campaignsphp:38
+msgid "Created"
+msgstr ""
+
+#: admin/views/deliverabilityphp:53
+msgid "DNS lookups are disabled on this server, so live checks could not run. The copy-paste records below are still correct to add at your DNS host."
+msgstr ""
+
+#: admin/class-semnews-adminphp:91
+msgid "Dashboard"
+msgstr ""
+
+#: admin/views/settingsphp:165
+msgid "Data minimisation: people who never confirm are automatically removed. Set to 0 to disable. Confirmed subscribers are never auto-deleted."
+msgstr ""
+
+#: includes/class-semnews-gdprphp:140
+msgid "Date"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:77
+msgid "Delete"
+msgstr ""
+
+#: admin/views/settingsphp:183
+msgid "Delete all subscriber data if I uninstall this plugin"
+msgstr ""
+
+#: admin/views/campaign-editphp:320
+msgid "Delete newsletter"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:125
+msgid "Delete subscriber"
+msgstr ""
+
+#: admin/views/campaign-editphp:316
+msgid "Delete this newsletter? This cannot be undone."
+msgstr ""
+
+#: admin/views/settingsphp:162
+msgid "Delete unconfirmed signups after"
+msgstr ""
+
+#: admin/class-semnews-adminphp:94 admin/views/deliverabilityphp:38
+msgid "Deliverability"
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:281
+msgid "Deliverability test"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1317
+msgid "Deliverability test email sent. Check your inbox and inspect the headers."
+msgstr ""
+
+#: admin/views/displayphp:37
+msgid "Description"
+msgstr ""
+
+#: includes/class-semnews-widgetphp:77
+msgid "Description:"
+msgstr ""
+
+#: admin/views/deliverabilityphp:101
+msgid "Detected selector(s): %s"
+msgstr ""
+
+#: admin/class-semnews-adminphp:95
+msgid "Display"
+msgstr ""
+
+#: admin/class-semnews-adminphp:95 admin/views/displayphp:19
+msgid "Display & Placement"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1321
+msgid "Display & placement settings saved."
+msgstr ""
+
+#: admin/class-semnews-adminphp:476
+msgid "Disposable-email blocking & confirmation reminders"
+msgstr ""
+
+#: admin/views/settingsphp:110
+msgid "Double opt-in"
+msgstr ""
+
+#: admin/views/dashboardphp:24
+msgid "Double opt-in is enabled"
+msgstr ""
+
+#: includes/class-semnews-optinphp:318
+msgid "Download my data (JSON)"
+msgstr ""
+
+#: admin/views/campaignsphp:17
+msgid "Draft"
+msgstr ""
+
+#: admin/views/campaign-editphp:295
+msgid "Duplicate as new draft"
+msgstr ""
+
+#: admin/views/campaignsphp:81
+msgid "Edit"
+msgstr ""
+
+#: admin/views/campaign-editphp:51
+msgid "Edit newsletter"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:42 admin/views/subscribersphp:57 admin/views/subscriber-viewphp:21 includes/class-semnews-gdprphp:83 includes/class-semnews-optinphp:286
+msgid "Email"
+msgstr ""
+
+#: includes/class-semnews-formsphp:141
+msgid "Email address"
+msgstr ""
+
+#: admin/views/settingsphp:200
+msgid "Email service"
+msgstr ""
+
+#: admin/views/settingsphp:193
+msgid "Emails per batch"
+msgstr ""
+
+#: admin/views/displayphp:49
+msgid "Enable"
+msgstr ""
+
+#: admin/class-semnews-adminphp:475
+msgid "Engagement insights & engaged-only sends"
+msgstr ""
+
+#: admin/views/upgradephp:42
+msgid "Engagement insights without the creepy part: click-based (no hidden open pixels), consent-aware, first-party and auto-expiring after 90 days. Then send only to engaged readers — smaller sends, better inboxing, honest list hygiene."
+msgstr ""
+
+#: admin/views/subscriber-viewphp:67 includes/class-semnews-gdprphp:136 includes/class-semnews-optinphp:303
+msgid "Event"
+msgstr ""
+
+#: includes/class-semnews-installphp:385
+msgid "Every 5 minutes (Simple Email Newsletters)"
+msgstr ""
+
+#: admin/views/dashboardphp:50
+msgid "Every signup's exact wording, time, IP and source are logged — the proof CASL (Canada) and GDPR Art. 7 (EU/UK) demand. Export it any time from Subscribers."
+msgstr ""
+
+#: admin/views/subscribersphp:30
+msgid "Export CSV"
+msgstr ""
+
+#: admin/views/subscribersphp:32
+msgid "Export consent register"
+msgstr ""
+
+#: admin/views/settingsphp:221
+msgid "Fallback — if your provider can only set a URL, append"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:162
+msgid "Filter"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:155
+msgid "Filter by status"
+msgstr ""
+
+#: admin/views/setupphp:92
+msgid "Finish"
+msgstr ""
+
+#: admin/views/setupphp:53
+msgid "For best delivery, use an address on your own domain (e.g. newsletter@%s)."
+msgstr ""
+
+#: admin/views/subscribersphp:124
+msgid "For soft opt-in only: I confirm the PECR soft opt-in conditions are met for everyone in this list."
+msgstr ""
+
+#: admin/views/subscribersphp:82
+msgid "For soft opt-in only: I confirm these people are existing customers who bought a similar product/service, were given a clear chance to opt out when we collected their details, and are offered an easy opt-out in every message (PECR reg. 22(3))."
+msgstr ""
+
+#: admin/views/displayphp:30
+msgid "Form text (shared by all placements)"
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:276 includes/class-semnews-deliverabilityphp:277 includes/class-semnews-deliverabilityphp:278
+msgid "Found"
+msgstr ""
+
+#: admin/views/campaign-editphp:156
+msgid "Friendly advice — it never blocks sending."
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:272
+msgid "From address"
+msgstr ""
+
+#: admin/views/deliverabilityphp:77
+msgid "From address is on your site’s domain"
+msgstr ""
+
+#: admin/views/settingsphp:29 admin/views/setupphp:48
+msgid "From email"
+msgstr ""
+
+#: admin/views/settingsphp:25 admin/views/setupphp:44
+msgid "From name"
+msgstr ""
+
+#: admin/views/dashboardphp:45
+msgid "GDPR data minimisation (Art. 5) — and safe practice everywhere else."
+msgstr ""
+
+#: admin/views/campaign-editphp:164
+msgid "Generate the content from your latest posts using a template. You can edit it afterwards. This replaces the content above."
+msgstr ""
+
+#: admin/views/campaignsphp:52
+msgid "Generated by the automated newsletter"
+msgstr ""
+
+#: admin/views/upgradephp:97
+msgid "Get Simple Email Newsletters Pro"
+msgstr ""
+
+#: admin/class-semnews-adminphp:467
+msgid "Go further with Pro"
+msgstr ""
+
+#: admin/views/upgradephp:17
+msgid "Greet every subscriber automatically"
+msgstr ""
+
+#: admin/views/upgradephp:29
+msgid "Grow your list on autopilot"
+msgstr ""
+
+#: admin/views/displayphp:33
+msgid "Heading"
+msgstr ""
+
+#: includes/class-semnews-optinphp:281
+msgid "Here is everything we hold for %s."
+msgstr ""
+
+#: templates/emails/confirmationphp:18 templates/emails/welcomephp:18
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/emails/confirmationphp:18 templates/emails/welcomephp:18
+msgid "Hi,"
+msgstr ""
+
+#: admin/views/upgradephp:21
+msgid "Hit the inbox at the perfect moment"
+msgstr ""
+
+#: includes/class-semnews-displayphp:62
+msgid "Honest updates, straight to your inbox. Unsubscribe any time."
+msgstr ""
+
+#: admin/views/campaign-editphp:155
+msgid "Honesty check"
+msgstr ""
+
+#: admin/views/settingsphp:196
+msgid "How many emails to send per background run. Lower this if your host limits outgoing mail."
+msgstr ""
+
+#: admin/views/setupphp:76
+msgid "How people consent"
+msgstr ""
+
+#: includes/functionsphp:31
+msgid "I agree to receive email newsletters and accept the privacy policy. You can unsubscribe at any time."
+msgstr ""
+
+#: admin/views/subscriber-viewphp:69 includes/class-semnews-gdprphp:144
+msgid "IP"
+msgstr ""
+
+#: admin/views/settingsphp:54
+msgid "Identity & legal footer"
+msgstr ""
+
+#: templates/emails/confirmationphp:47
+msgid "If the button does not work, copy and paste this link into your browser:"
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:282
+msgid "If you received this email, sending works. Open the original message in your mailbox and check that SPF, DKIM and DMARC all pass in the headers."
+msgstr ""
+
+#: admin/views/subscribersphp:91 admin/views/subscribersphp:128
+msgid "Import"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1300
+msgid "Import complete."
+msgstr ""
+
+#: admin/views/dashboardphp:35
+msgid "Informed consent: GDPR Art. 13 (EU/UK); also expected under CCPA (California) and PIPEDA (Canada)."
+msgstr ""
+
+#: admin/views/upgradephp:103
+msgid "Install it alongside this plugin and the greyed-out controls become real, with your existing subscribers, newsletters and settings picked up as-is. One extra sale, sponsor or client from a better-targeted send and it has paid for the year."
+msgstr ""
+
+#: admin/views/settingsphp:139
+msgid "Intro paragraph — leave blank for the default."
+msgstr ""
+
+#: admin/views/settingsphp:132
+msgid "Intro paragraph — leave blank for the default. The confirm button is always included."
+msgstr ""
+
+#: admin/views/deliverabilityphp:153
+msgid "Keep a real reply-to inbox a person reads."
+msgstr ""
+
+#: admin/views/settingsphp:238
+msgid "Keep this private. Rotate it (below) if it is ever exposed."
+msgstr ""
+
+#: admin/views/upgradephp:41
+msgid "Know who’s reading — honestly"
+msgstr ""
+
+#: admin/views/subscribersphp:72 admin/views/subscribersphp:114 admin/views/subscriber-viewphp:24 includes/class-semnews-optinphp:289
+msgid "Lawful basis"
+msgstr ""
+
+#: admin/class-semnews-adminphp:345 admin/class-semnews-adminphp:367 admin/class-semnews-adminphp:389 admin/class-semnews-adminphp:414 admin/class-semnews-adminphp:447 admin/views/campaign-editphp:190
+msgid "Learn more →"
+msgstr ""
+
+#: admin/views/campaign-editphp:208
+msgid "Leave unchecked for all categories."
+msgstr ""
+
+#: admin/views/setupphp:16
+msgid "Legal footer"
+msgstr ""
+
+#: admin/views/upgradephp:57
+msgid "Let your back catalogue sell for you"
+msgstr ""
+
+#: admin/views/settingsphp:102
+msgid "Linked next to the consent checkbox so people know what they are agreeing to."
+msgstr ""
+
+#: admin/class-semnews-adminphp:472
+msgid "Lists & tags segmentation"
+msgstr ""
+
+#: admin/views/upgradephp:26
+msgid "Lists & tags segmentation: a security digest to customers, product news to prospects, VIP offers to your best readers. Relevant email gets opened — irrelevant email gets unsubscribed. Every form can feed its own list automatically."
+msgstr ""
+
+#: admin/views/upgradephp:49
+msgid "Look like a team, not a no-reply"
+msgstr ""
+
+#: admin/views/deliverabilityphp:15
+msgid "Looking healthy"
+msgstr ""
+
+#: includes/class-semnews-optinphp:321
+msgid "Manage your subscription"
+msgstr ""
+
+#: includes/class-semnews-optinphp:380
+msgid "Managing preferences for %s"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:76
+msgid "Mark as bounced (suppress)"
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:275
+msgid "Matches your site domain"
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:276 includes/class-semnews-deliverabilityphp:278
+msgid "Missing"
+msgstr ""
+
+#: admin/class-semnews-adminphp:436
+msgid "More list tools"
+msgstr ""
+
+#: admin/views/upgradephp:34
+msgid "Multiple automated digests, each with its own newsletter, schedule and categories — a weekly news round-up, a monthly blog digest and a product-updates mailer, all running side by side on autopilot."
+msgstr ""
+
+#: includes/class-semnews-linterphp:53
+msgid "Multiple exclamation marks look spammy. One honest sentence beats hype."
+msgstr ""
+
+#: admin/class-semnews-adminphp:477
+msgid "Multiple sender identities"
+msgstr ""
+
+#: admin/views/upgradephp:50
+msgid "Multiple sender identities: send the digest as “The Editor”, support notes as “Sarah from Support”, offers as your brand. Named senders build recognition — and recognition is what keeps you out of the spam folder."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:43 admin/views/subscriber-viewphp:22 includes/class-semnews-formsphp:134 includes/class-semnews-gdprphp:87 includes/class-semnews-optinphp:287
+msgid "Name"
+msgstr ""
+
+#: admin/views/subscribersphp:61
+msgid "Name (optional)"
+msgstr ""
+
+#: admin/views/subscribersphp:127
+msgid "Never import bought or scraped lists. Previously unsubscribed or erased addresses are skipped automatically."
+msgstr ""
+
+#: admin/views/dashboardphp:116
+msgid "New newsletter"
+msgstr ""
+
+#: admin/views/settingsphp:16
+msgid "Newsletter Settings"
+msgstr ""
+
+#: includes/class-semnews-widgetphp:23
+msgid "Newsletter Signup"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1315
+msgid "Newsletter built from your latest posts. Review and edit it below."
+msgstr ""
+
+#: includes/class-semnews-gdprphp:132
+msgid "Newsletter consent history"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1307
+msgid "Newsletter deleted."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1303
+msgid "Newsletter duplicated — you are editing the copy."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1080
+msgid "Newsletter not found."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1301
+msgid "Newsletter saved."
+msgstr ""
+
+#: includes/class-semnews-gdprphp:49 includes/class-semnews-gdprphp:63 includes/class-semnews-gdprphp:122
+msgid "Newsletter subscription"
+msgstr ""
+
+#: includes/class-semnews-gdprphp:179
+msgid "Newsletter subscription and consent history deleted."
+msgstr ""
+
+#: admin/class-semnews-adminphp:82 admin/class-semnews-adminphp:83 admin/class-semnews-adminphp:93 admin/views/dashboardphp:68 admin/views/campaignsphp:25
+msgid "Newsletters"
+msgstr ""
+
+#: admin/views/settingsphp:203
+msgid "Newsletters send through WordPress mail, so they work with any SMTP/email service. For reliable delivery at volume, install a free SMTP plugin (e.g. FluentSMTP or WP Mail SMTP) and connect a real provider — SendGrid, Amazon SES (cheapest at scale), Mailgun or Postmark. Then add that provider’s bounce/complaint webhook below so your list stays clean automatically."
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:275
+msgid "No"
+msgstr ""
+
+#: admin/views/deliverabilityphp:112
+msgid "No DMARC record found. Start with a monitoring policy (below) — it is safe and tells you who sends as you."
+msgstr ""
+
+#: admin/views/deliverabilityphp:92
+msgid "No SPF record found. Add one so receivers know which servers may send for you."
+msgstr ""
+
+#: admin/views/deliverabilityphp:104
+msgid "No common DKIM selector detected. Your mail host or SMTP plugin sets this up — enable DKIM signing there, then re-check."
+msgstr ""
+
+#: admin/views/subscriber-viewphp:62 includes/class-semnews-optinphp:300
+msgid "No events recorded."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1316
+msgid "No matching posts were found for those settings."
+msgstr ""
+
+#: admin/views/campaignsphp:44
+msgid "No newsletters yet."
+msgstr ""
+
+#: admin/views/dashboardphp:39
+msgid "No open/click tracking"
+msgstr ""
+
+#: includes/class-semnews-linterphp:83
+msgid "No preheader set. The preheader is the preview text after the subject — without it, inboxes show a random snippet."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1299
+msgid "No subscribers were selected."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:213
+msgid "No subscribers yet. Add your signup form to a page with the [semnews_newsletter] shortcode or the Newsletter Signup block."
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:277
+msgid "Not detected"
+msgstr ""
+
+#: admin/views/campaign-editphp:195
+msgid "Number of posts"
+msgstr ""
+
+#: admin/views/settingsphp:185
+msgid "Off by default so you never lose your list by accident."
+msgstr ""
+
+#: admin/views/settingsphp:179
+msgid "On uninstall"
+msgstr ""
+
+#: templates/emails/confirmationphp:22
+msgid "One click and you’re on the list"
+msgstr ""
+
+#: admin/views/upgradephp:90
+msgid "One license, everything we ship next"
+msgstr ""
+
+#: admin/views/subscribersphp:96
+msgid "One per line: email,name"
+msgstr ""
+
+#: admin/views/dashboardphp:55
+msgid "One-click (RFC 8058) and permanent — exceeding Australia's Spam Act rule that unsubscribe must work for at least 30 days."
+msgstr ""
+
+#: admin/views/subscribersphp:85
+msgid "Only add people who have genuinely asked to hear from you (or qualify for soft opt-in). Adding someone as confirmed counts towards your subscriber limit."
+msgstr ""
+
+#: admin/views/deliverabilityphp:144
+msgid "Open the message in your mailbox and confirm SPF, DKIM and DMARC all show “pass” in the headers."
+msgstr ""
+
+#: admin/views/settingsphp:107
+msgid "Opt-in & consent"
+msgstr ""
+
+#: admin/views/subscribersphp:100
+msgid "Or upload a CSV file (same format)"
+msgstr ""
+
+#: admin/class-semnews-adminphp:388
+msgid "Overlay signup placements — popup, slide-in and sticky bar, reusing this same form and double opt-in — are available in the separate Pro add-on."
+msgstr ""
+
+#: admin/views/campaign-editphp:268
+msgid "Pause sending"
+msgstr ""
+
+#: admin/views/campaignsphp:21
+msgid "Paused"
+msgstr ""
+
+#: includes/class-semnews-subscribersphp:58
+msgid "Pending"
+msgstr ""
+
+#: admin/views/subscribersphp:68
+msgid "Pending (send confirmation)"
+msgstr ""
+
+#: admin/views/dashboardphp:93
+msgid "Pending confirmation"
+msgstr ""
+
+#: admin/views/setupphp:82
+msgid "People confirm by email before they are added — the honest, GDPR-friendly default."
+msgstr ""
+
+#: admin/views/subscriber-viewphp:120
+msgid "Permanently delete this subscriber and their consent history? This cannot be undone."
+msgstr ""
+
+#: admin/views/settingsphp:61 admin/views/setupphp:71
+msgid "Physical postal address"
+msgstr ""
+
+#: admin/views/campaign-editphp:278
+msgid "Picks up exactly where it left off — nobody receives the newsletter twice."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1309
+msgid "Please add a subject before sending."
+msgstr ""
+
+#: includes/class-semnews-optinphp:137
+msgid "Please confirm you want to subscribe to our newsletter."
+msgstr ""
+
+#: includes/class-semnews-mailerphp:296
+msgid "Please confirm your subscription to %s"
+msgstr ""
+
+#: includes/class-semnews-formsphp:220 includes/class-semnews-formsphp:239
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/class-semnews-formsphp:215
+msgid "Please tick the consent box to subscribe."
+msgstr ""
+
+#: admin/class-semnews-adminphp:473
+msgid "Popup, slide-in & sticky-bar signup"
+msgstr ""
+
+#: admin/views/upgradephp:30
+msgid "Popup, slide-in and sticky-bar signup placements turn the readers you already have into subscribers — the single most effective thing you can add to a signup flow. Honest frequency caps built in, and never shown to people who already joined."
+msgstr ""
+
+#: admin/views/displayphp:53
+msgid "Position"
+msgstr ""
+
+#: admin/views/settingsphp:220
+msgid "Preferred — send the request header"
+msgstr ""
+
+#: admin/views/campaign-editphp:115
+msgid "Preheader"
+msgstr ""
+
+#: admin/views/campaign-editphp:183
+msgid "Preview"
+msgstr ""
+
+#: admin/views/campaign-editphp:288
+msgid "Preview & duplicate"
+msgstr ""
+
+#: admin/views/campaign-editphp:290
+msgid "Preview in browser"
+msgstr ""
+
+#: admin/class-semnews-adminphp:480
+msgid "Priority support & every new feature included"
+msgstr ""
+
+#: admin/views/upgradephp:62
+msgid "Priority support from the people who wrote the code, plus every Pro update the moment it ships. When a send matters, you are not waiting in a forum queue."
+msgstr ""
+
+#: admin/views/settingsphp:159
+msgid "Privacy & data"
+msgstr ""
+
+#: includes/class-semnews-formsphp:154
+msgid "Privacy policy"
+msgstr ""
+
+#: admin/views/settingsphp:68
+msgid "Privacy policy page"
+msgstr ""
+
+#: admin/class-semnews-adminphp:325 admin/views/campaign-editphp:188
+msgid "Pro"
+msgstr ""
+
+#: admin/views/upgradephp:92
+msgid "Pro keeps growing, and your license includes every new feature at no extra cost — the welcome series, multiple digests, the WooCommerce opt-in, two new gallery templates, brand logos with one-click previews, honest engagement insights, disposable-email blocking and confirmation reminders all landed in the last two releases alone."
+msgstr ""
+
+#: admin/views/settingsphp:224
+msgid "Provider setup (which events to enable)"
+msgstr ""
+
+#: admin/class-semnews-adminphp:479
+msgid "Public newsletter archive"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1134
+msgid "Publish a post first — template previews are built from your latest real posts."
+msgstr ""
+
+#: admin/views/dashboardphp:109
+msgid "Quick start"
+msgstr ""
+
+#: admin/views/deliverabilityphp:42
+msgid "Re-check now"
+msgstr ""
+
+#: includes/class-semnews-templatesphp:158
+msgid "Read more"
+msgstr ""
+
+#: templates/emails/welcomephp:46
+msgid "Read the latest from %s"
+msgstr ""
+
+#: admin/views/campaignsphp:36
+msgid "Recipients"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:45
+msgid "Record"
+msgstr ""
+
+#: admin/views/campaign-editphp:165
+msgid "Replace the current content with posts? Save anything you want to keep first."
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:273
+msgid "Reply-To"
+msgstr ""
+
+#: admin/views/settingsphp:36 admin/views/setupphp:58
+msgid "Reply-to email"
+msgstr ""
+
+#: admin/views/settingsphp:114
+msgid "Require email confirmation before subscribing (strongly recommended)"
+msgstr ""
+
+#: admin/views/dashboardphp:30
+msgid "Required in every email by CAN-SPAM (US) and CASL (Canada); expected under EU/UK transparency rules."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:75
+msgid "Resend confirmation"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:96
+msgid "Resend confirmation email"
+msgstr ""
+
+#: admin/views/campaign-editphp:276
+msgid "Resume sending"
+msgstr ""
+
+#: admin/views/dashboardphp:138
+msgid "Review settings"
+msgstr ""
+
+#: admin/views/settingsphp:246
+msgid "Rotate the webhook secret? You will need to update it in your mail provider."
+msgstr ""
+
+#: admin/views/settingsphp:249
+msgid "Rotate webhook secret"
+msgstr ""
+
+#: admin/views/upgradephp:33
+msgid "Run as many digests as you publish"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1086
+msgid "Sample Subscriber"
+msgstr ""
+
+#: admin/views/displayphp:92
+msgid "Save display settings"
+msgstr ""
+
+#: admin/views/campaign-editphp:147
+msgid "Save draft"
+msgstr ""
+
+#: includes/class-semnews-optinphp:403
+msgid "Save preferences"
+msgstr ""
+
+#: admin/views/campaign-editphp:282
+msgid "Save the draft to enable sending and test emails."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1304
+msgid "Schedule cancelled — the newsletter is a draft again."
+msgstr ""
+
+#: admin/views/campaignsphp:18
+msgid "Scheduled"
+msgstr ""
+
+#: admin/views/campaign-editphp:252
+msgid "Scheduled for %s."
+msgstr ""
+
+#: admin/class-semnews-adminphp:471
+msgid "Scheduled sending & automated digests"
+msgstr ""
+
+#: admin/views/upgradephp:22
+msgid "Scheduled sending: write the newsletter on Friday afternoon, land it Tuesday at 9am when your readers actually open email. Queue a whole month of sends in one sitting, then get on with your week."
+msgstr ""
+
+#: admin/views/subscribersphp:39
+msgid "Search subscribers"
+msgstr ""
+
+#: includes/class-semnews-optinphp:409
+msgid "See the data we hold about you"
+msgstr ""
+
+#: admin/class-semnews-adminphp:482
+msgid "See what’s in Pro"
+msgstr ""
+
+#: admin/views/campaign-editphp:216
+msgid "Send"
+msgstr ""
+
+#: admin/views/settingsphp:227
+msgid "Send Bounce + Complaint notifications to an SNS topic, then add an HTTPS subscription with this URL (it auto-confirms)."
+msgstr ""
+
+#: admin/views/campaign-editphp:302
+msgid "Send a test"
+msgstr ""
+
+#: admin/views/settingsphp:124
+msgid "Send a welcome email after someone confirms"
+msgstr ""
+
+#: admin/views/deliverabilityphp:143
+msgid "Send deliverability test"
+msgstr ""
+
+#: admin/views/subscribersphp:110
+msgid "Send each a confirmation email (recommended)"
+msgstr ""
+
+#: admin/views/deliverabilityphp:151
+msgid "Send from an address on your own domain."
+msgstr ""
+
+#: admin/views/deliverabilityphp:138
+msgid "Send myself a test"
+msgstr ""
+
+#: admin/views/campaign-editphp:233
+msgid "Send now"
+msgstr ""
+
+#: admin/views/campaign-editphp:310
+msgid "Send test"
+msgstr ""
+
+#: admin/views/campaign-editphp:228
+msgid "Send this newsletter now to all confirmed subscribers?"
+msgstr ""
+
+#: admin/views/upgradephp:25
+msgid "Send to exactly the right people"
+msgstr ""
+
+#: admin/views/settingsphp:22 admin/views/setupphp:15
+msgid "Sender"
+msgstr ""
+
+#: admin/views/settingsphp:190 admin/views/campaignsphp:19
+msgid "Sending"
+msgstr ""
+
+#: admin/views/dashboardphp:75
+msgid "Sending and cleanup both run on WP-Cron, and the send queue tick is overdue. On low-traffic sites, or if DISABLE_WP_CRON is set, configure a real server cron that hits wp-cron.php every 5 minutes."
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:274
+msgid "Sending domain"
+msgstr ""
+
+#: admin/views/deliverabilityphp:64
+msgid "Sending domain: %1$s"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1308
+msgid "Sending has started. Delivery happens in the background."
+msgstr ""
+
+#: admin/views/campaign-editphp:77
+msgid "Sending in progress: %1$s of %2$s delivered. This continues automatically in the background."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1305
+msgid "Sending paused. Resume any time — it picks up where it left off."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1306
+msgid "Sending resumed."
+msgstr ""
+
+#: admin/views/settingsphp:228
+msgid "Sending → Webhooks: add the URL for Permanent Failure and Spam Complaints (Temporary Failure optional)."
+msgstr ""
+
+#: admin/views/campaignsphp:20 admin/views/campaignsphp:37
+msgid "Sent"
+msgstr ""
+
+#: admin/views/settingsphp:229
+msgid "Servers → your server → Webhooks: add the URL and check Bounce and Spam Complaint."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1311
+msgid "Set a From email address in Settings before sending."
+msgstr ""
+
+#: admin/views/dashboardphp:111
+msgid "Set your sender name, From address and postal address"
+msgstr ""
+
+#: admin/class-semnews-adminphp:96
+msgid "Settings"
+msgstr ""
+
+#: admin/views/settingsphp:226
+msgid "Settings → Mail Settings → Event Webhook: paste the URL and enable Bounced, Dropped and Spam Reports."
+msgstr ""
+
+#: admin/class-semnews-adminphp:107
+msgid "Setup"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1320
+msgid "Setup complete — you are ready to send honestly. 🎉"
+msgstr ""
+
+#: includes/class-semnews-optinphp:270
+msgid "Show my data"
+msgstr ""
+
+#: includes/class-semnews-widgetphp:85
+msgid "Show name field"
+msgstr ""
+
+#: admin/views/displayphp:66
+msgid "Show on"
+msgstr ""
+
+#: admin/views/displayphp:50
+msgid "Show the form automatically inside posts"
+msgstr ""
+
+#: admin/views/settingsphp:64
+msgid "Shown in every email footer. A valid postal address is legally required and builds trust. Sending is blocked until this is set."
+msgstr ""
+
+#: admin/views/setupphp:87
+msgid "Shown next to the (never pre-ticked) consent checkbox and recorded with every signup."
+msgstr ""
+
+#: admin/views/settingsphp:146
+msgid "Shown next to the (never pre-ticked) consent checkbox. The exact wording is recorded with every signup as proof of consent."
+msgstr ""
+
+#: admin/views/subscriber-viewphp:29 includes/class-semnews-gdprphp:99
+msgid "Signup IP"
+msgstr ""
+
+#: admin/views/upgradephp:46
+msgid "Signup protection, finished: the free plugin already blocks bots and dead domains — Pro adds a curated blocklist of disposable-email providers, your own blocked-domains list, and one polite automatic reminder to genuine signups who never clicked confirm. Fewer fake addresses means better deliverability and stats you can trust."
+msgstr ""
+
+#: includes/class-semnews-gdprphp:206
+msgid "Simple Email Newsletters"
+msgstr ""
+
+#: quintessential-newslettersphp:156
+msgid "Simple Email Newsletters could not start."
+msgstr ""
+
+#: includes/class-semnews-templatesphp:45
+msgid "Simple list"
+msgstr ""
+
+#: admin/views/setupphp:93
+msgid "Skip for now"
+msgstr ""
+
+#: includes/class-semnews-subscribersphp:47
+msgid "Soft opt-in (existing customers — PECR)"
+msgstr ""
+
+#: admin/views/deliverabilityphp:16
+msgid "Some gaps to close"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1297
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-semnews-formsphp:241
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:46 admin/views/subscriber-viewphp:25 admin/views/subscriber-viewphp:68 includes/class-semnews-gdprphp:115 includes/class-semnews-optinphp:303
+msgid "Source"
+msgstr ""
+
+#: admin/views/dashboardphp:44
+msgid "Stale unconfirmed signups are auto-deleted"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:44 admin/views/subscribersphp:65 admin/views/campaignsphp:35 admin/views/subscriber-viewphp:23 includes/class-semnews-gdprphp:91 includes/class-semnews-optinphp:288
+msgid "Status"
+msgstr ""
+
+#: admin/views/campaign-editphp:111 admin/views/campaignsphp:34
+msgid "Subject"
+msgstr ""
+
+#: admin/views/settingsphp:131 admin/views/settingsphp:138
+msgid "Subject — leave blank for the default. {company} is replaced."
+msgstr ""
+
+#: includes/class-semnews-displayphp:63 includes/class-semnews-formsphp:58 includes/class-semnews-widgetphp:50 includes/class-semnews-blockphp:68
+msgid "Subscribe"
+msgstr ""
+
+#: includes/class-semnews-displayphp:61 includes/class-semnews-formsphp:55 includes/class-semnews-widgetphp:38 includes/class-semnews-widgetphp:66
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:47 includes/class-semnews-subscribersphp:59 includes/class-semnews-optinphp:290
+msgid "Subscribed"
+msgstr ""
+
+#: admin/views/subscribersphp:67
+msgid "Subscribed (confirmed)"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:26 includes/class-semnews-gdprphp:107
+msgid "Subscribed at"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:36
+msgid "Subscriber"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1294
+msgid "Subscriber added."
+msgstr ""
+
+#: admin/class-semnews-adminphp:92 admin/views/subscribersphp:29
+msgid "Subscribers"
+msgstr ""
+
+#: admin/views/dashboardphp:25
+msgid "Subscribers confirm by email first — the reliable way to prove consent under GDPR Art. 7 (EU/UK), and effectively required in Germany."
+msgstr ""
+
+#: admin/views/settingsphp:150
+msgid "Success message (double opt-in)"
+msgstr ""
+
+#: admin/views/settingsphp:154
+msgid "Success message (single opt-in)"
+msgstr ""
+
+#: includes/class-semnews-mailerphp:425
+msgid "TEST"
+msgstr ""
+
+#: admin/views/deliverabilityphp:124 admin/views/deliverabilityphp:129
+msgid "TXT record on"
+msgstr ""
+
+#: admin/views/campaign-editphp:170
+msgid "Template"
+msgstr ""
+
+#: admin/class-semnews-adminphp:474
+msgid "Template gallery, brand logo & previews"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1151
+msgid "Template preview: %s"
+msgstr ""
+
+#: includes/class-semnews-mailerphp:419
+msgid "Test Recipient"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1313
+msgid "Test email sent."
+msgstr ""
+
+#: admin/views/campaign-editphp:311
+msgid "Test emails are not tied to a real subscriber, so their unsubscribe/preference links are placeholders — clicking one explains this. They work normally in real sends."
+msgstr ""
+
+#: includes/class-semnews-optinphp:147
+msgid "Thank you! Your subscription is now confirmed."
+msgstr ""
+
+#: templates/emails/welcomephp:33
+msgid "Thanks for confirming your subscription to the %s newsletter — it’s great to have you."
+msgstr ""
+
+#: templates/emails/confirmationphp:33
+msgid "Thanks for signing up to the %s newsletter. Please confirm your email address below — we only add you once you confirm."
+msgstr ""
+
+#: includes/functionsphp:33
+msgid "Thanks for subscribing!"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1296
+msgid "That address previously unsubscribed or was erased and cannot be re-added. They can re-subscribe themselves via the form."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1295
+msgid "That email address is not valid."
+msgstr ""
+
+#: admin/views/subscriber-viewphp:60
+msgid "The append-only trail used as proof of consent (GDPR Art. 7)."
+msgstr ""
+
+#: admin/views/campaign-editphp:270
+msgid "The batch currently in flight finishes; no new batches start until you resume."
+msgstr ""
+
+#: admin/class-semnews-adminphp:157
+msgid "The browser preview shows the last saved version — your unsaved edits will not appear in it yet."
+msgstr ""
+
+#: admin/views/upgradephp:70
+msgid "The free plugin sends honest email, unlimited and uncapped — that never changes. Pro is for the moment your list starts to matter: when you want the right message reaching the right segment at the right time, and a list that grows while you sleep."
+msgstr ""
+
+#: admin/views/settingsphp:116
+msgid "The honest, GDPR-friendly default. Only turn this off if you have another verifiable consent record."
+msgstr ""
+
+#: admin/views/dashboardphp:83
+msgid "The last email send reported an error:"
+msgstr ""
+
+#: admin/views/upgradephp:58
+msgid "The public newsletter archive shows visitors exactly what they will get before they subscribe — real issues, on your site, indexed by search engines. Proof beats promises on any signup form."
+msgstr ""
+
+#: includes/class-semnews-linterphp:48
+msgid "The subject is in ALL CAPS. It reads as shouting and trips spam filters — sentence case performs better."
+msgstr ""
+
+#: includes/class-semnews-linterphp:58
+msgid "The subject is over 60 characters and may be truncated in many inboxes. Front-load the important words."
+msgstr ""
+
+#: includes/class-semnews-linterphp:36
+msgid "The subject line is empty. A clear, honest subject helps people decide to open — and is required before you can send."
+msgstr ""
+
+#: admin/views/upgradephp:38
+msgid "The template gallery: image-led Cards, editorial Magazine, deliverability-first Plain text, the big-launch Announcement, the link-round-up Compact digest, and the write-your-own Custom HTML template — every design topped with your own brand logo, and one-click previews built from your real posts so you choose with your eyes, not the labels."
+msgstr ""
+
+#: admin/views/upgradephp:18
+msgid "The welcome series sends up to three emails to each new subscriber — a hello on day one, your best content on day three, an offer on day seven. The most-opened emails you will ever send, written once and working forever."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1312
+msgid "There are no confirmed subscribers to send to yet."
+msgstr ""
+
+#: includes/class-semnews-linterphp:97
+msgid "There is no readable text in the body. Add some words so the message works with images off."
+msgstr ""
+
+#: admin/views/deliverabilityphp:49
+msgid "These checks look at the live DNS for your From-address domain. Getting SPF, DKIM and DMARC in place is the single biggest thing you can do to land in the inbox and prove your mail is really from you."
+msgstr ""
+
+#: admin/views/subscribersphp:106
+msgid "These people already gave consent (import as confirmed)"
+msgstr ""
+
+#: includes/class-semnews-optinphp:53
+msgid "This link came from a test email or preview, so it is not connected to a real subscriber — there is nothing to unsubscribe or show. In a real newsletter, every recipient gets their own secure link, and unsubscribing works with one click."
+msgstr ""
+
+#: includes/class-semnews-optinphp:59 includes/class-semnews-optinphp:66
+msgid "This link is invalid or has expired."
+msgstr ""
+
+#: includes/class-semnews-linterphp:93
+msgid "This looks like an image-only email. Many clients block images by default and screen readers can’t read them — always include real text."
+msgstr ""
+
+#: admin/views/campaign-editphp:280
+msgid "This newsletter has been sent."
+msgstr ""
+
+#: admin/class-semnews-adminphp:1302
+msgid "This newsletter is sending or already sent and can no longer be edited or re-sent."
+msgstr ""
+
+#: admin/views/dashboardphp:40
+msgid "This plugin contains no tracking pixels or click redirects at all — which also sidesteps EU ePrivacy consent requirements for pixels."
+msgstr ""
+
+#: templates/emails/confirmationphp:57
+msgid "This request was made on %s. If it wasn’t you, simply ignore this email — you will not be added to the list and we will not email you again."
+msgstr ""
+
+#: admin/views/dashboardphp:85
+msgid "This usually means an SMTP/mail configuration problem."
+msgstr ""
+
+#: admin/views/campaign-editphp:221
+msgid "This will be sent to %s confirmed subscriber."
+msgid_plural "This will be sent to %s confirmed subscribers."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/views/setupphp:25
+msgid "Three quick steps and you are ready to send honest, GDPR-friendly newsletters."
+msgstr ""
+
+#: admin/views/campaign-editphp:144
+msgid "Tip: you can use {{name}}, {{first_name}} and {{email}} to personalise honestly. Empty values render as nothing — never a fake \"Hi Friend\"."
+msgstr ""
+
+#: admin/views/deliverabilityphp:149
+msgid "Tips"
+msgstr ""
+
+#: includes/class-semnews-widgetphp:71
+msgid "Title:"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1322
+msgid "To add people under soft opt-in you must confirm the PECR conditions are met."
+msgstr ""
+
+#: includes/class-semnews-formsphp:209
+msgid "Too many attempts. Please try again in a few minutes."
+msgstr ""
+
+#: admin/views/upgradephp:53
+msgid "Turn buyers into readers"
+msgstr ""
+
+#: includes/class-semnews-optinphp:84
+msgid "Unknown request."
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:74 admin/views/subscriber-viewphp:106 includes/class-semnews-mailerphp:170 includes/class-semnews-optinphp:172
+msgid "Unsubscribe"
+msgstr ""
+
+#: admin/views/dashboardphp:54
+msgid "Unsubscribe links never expire"
+msgstr ""
+
+#: admin/views/dashboardphp:94 includes/class-semnews-subscribersphp:60
+msgid "Unsubscribed"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:28
+msgid "Unsubscribed at"
+msgstr ""
+
+#: includes/class-semnews-mailerphp:172
+msgid "Update your preferences"
+msgstr ""
+
+#: admin/class-semnews-adminphp:110 admin/views/upgradephp:67
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/views/deliverabilityphp:152
+msgid "Use a dedicated SMTP service for reliable delivery."
+msgstr ""
+
+#: admin/views/settingsphp:39
+msgid "Use a real inbox a person reads — honest newsletters reply to real people."
+msgstr ""
+
+#: admin/views/settingsphp:32
+msgid "Use an address on your own domain for the best deliverability (e.g. newsletter@yourdomain.com)."
+msgstr ""
+
+#: admin/views/setupphp:80
+msgid "Use double opt-in (recommended)"
+msgstr ""
+
+#: admin/class-semnews-subscribers-list-tablephp:101 admin/views/campaignsphp:81
+msgid "View"
+msgstr ""
+
+#: includes/class-semnews-optinphp:269
+msgid "View the personal data we hold about you and your consent history."
+msgstr ""
+
+#: admin/views/dashboardphp:102
+msgid "View →"
+msgstr ""
+
+#: admin/views/dashboardphp:74
+msgid "WP-Cron looks stalled."
+msgstr ""
+
+#: admin/views/deliverabilityphp:154
+msgid "Warm up new domains by sending gradually."
+msgstr ""
+
+#: includes/class-semnews-gdprphp:203
+msgid "We use double opt-in: you must click a confirmation link before you receive anything. You can unsubscribe at any time using the link in every email, and you can ask us to export or delete your data at any time."
+msgstr ""
+
+#: admin/views/settingsphp:212
+msgid "Webhook URL"
+msgstr ""
+
+#: admin/views/settingsphp:235
+msgid "Webhook secret"
+msgstr ""
+
+#: admin/class-semnews-adminphp:1319
+msgid "Webhook secret rotated. Update it in your mail provider."
+msgstr ""
+
+#: includes/class-semnews-formsphp:128
+msgid "Website"
+msgstr ""
+
+#: admin/views/settingsphp:120 admin/views/settingsphp:136
+msgid "Welcome email"
+msgstr ""
+
+#: admin/class-semnews-adminphp:470
+msgid "Welcome series for new subscribers"
+msgstr ""
+
+#: includes/class-semnews-mailerphp:331
+msgid "Welcome to %s"
+msgstr ""
+
+#: admin/views/setupphp:24
+msgid "Welcome to Simple Email Newsletters"
+msgstr ""
+
+#: includes/class-semnews-optinphp:303
+msgid "When"
+msgstr ""
+
+#: admin/views/subscriber-viewphp:66
+msgid "When (UTC)"
+msgstr ""
+
+#: includes/class-semnews-gdprphp:202
+msgid "When you subscribe to our newsletter we store your email address, your name (if provided), the date and time you subscribed and confirmed, the IP address you subscribed from, and the consent wording you agreed to. We keep this so we can send you the newsletter and prove that you opted in."
+msgstr ""
+
+#: templates/emails/welcomephp:40
+msgid "While you wait for the first issue, the newest articles are already on the site:"
+msgstr ""
+
+#: admin/views/setupphp:42
+msgid "Who is the newsletter from?"
+msgstr ""
+
+#: admin/class-semnews-adminphp:478
+msgid "WooCommerce checkout opt-in"
+msgstr ""
+
+#: admin/views/upgradephp:54
+msgid "WooCommerce checkout opt-in: a clean, never pre-ticked newsletter checkbox at checkout. Buyers who say yes are tagged “Customer” automatically, so your best audience — people who already paid you — is one segment away."
+msgstr ""
+
+#: admin/views/dashboardphp:113
+msgid "Write and send your first newsletter"
+msgstr ""
+
+#: admin/views/campaignsphp:26
+msgid "Write new"
+msgstr ""
+
+#: admin/views/campaign-editphp:51
+msgid "Write newsletter"
+msgstr ""
+
+#: admin/views/campaignsphp:44
+msgid "Write your first one."
+msgstr ""
+
+#: admin/class-semnews-adminphp:366
+msgid "Writing now and sending at a chosen date and time is available in the separate Pro add-on."
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:275
+msgid "Yes"
+msgstr ""
+
+#: includes/class-semnews-optinphp:389
+msgid "Yes, I want to receive the newsletter"
+msgstr ""
+
+#: includes/class-semnews-optinphp:293
+msgid "You agreed to"
+msgstr ""
+
+#: includes/class-semnews-mailerphp:192
+msgid "You are receiving this because %s subscribed to our newsletter."
+msgstr ""
+
+#: admin/class-semnews-adminphp:178
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: includes/class-semnews-optinphp:189
+msgid "You have been unsubscribed. We are sorry to see you go — you will not receive any further newsletters."
+msgstr ""
+
+#: admin/class-semnews-adminphp:156
+msgid "You have unsaved changes. This button uses the last saved version of the newsletter and reloads the page, so your edits would be lost. Click Cancel, then \"Save draft\" to keep them."
+msgstr ""
+
+#: admin/views/campaign-editphp:61
+msgid "You need a physical postal address before you can send (it is legally required in every newsletter)."
+msgstr ""
+
+#: admin/views/deliverabilityphp:82
+msgid "Your From domain differs from your site (%s). Sending from your own domain improves trust and alignment."
+msgstr ""
+
+#: includes/class-semnews-optinphp:298
+msgid "Your consent history"
+msgstr ""
+
+#: includes/class-semnews-optinphp:283
+msgid "Your details"
+msgstr ""
+
+#: admin/views/setupphp:64
+msgid "Your legal footer"
+msgstr ""
+
+#: includes/class-semnews-optinphp:384
+msgid "Your name"
+msgstr ""
+
+#: includes/class-semnews-optinphp:223
+msgid "Your preferences have been saved. You are subscribed."
+msgstr ""
+
+#: includes/class-semnews-optinphp:226
+msgid "Your preferences have been saved. You are unsubscribed."
+msgstr ""
+
+#: includes/class-semnews-formsphp:181
+msgid "Your session expired. Please refresh the page and try again."
+msgstr ""
+
+#: templates/emails/welcomephp:22
+msgid "You’re in — welcome!"
+msgstr ""
+
+#: includes/class-semnews-deliverabilityphp:294
+msgid "[Deliverability test] %s"
+msgstr ""
+
+#: admin/views/displayphp:61
+msgid "after paragraph #"
+msgstr ""
+
+#: admin/views/settingsphp:164
+msgid "days"
+msgstr ""
+
+#: admin/views/campaignsphp:65
+msgid "failed"
+msgstr ""
+
+#: admin/views/campaignsphp:75
+msgid "sends %s"
+msgstr ""
+
+#: admin/views/dashboardphp:112
+msgid "shortcode, the Newsletter Signup block, or the widget"
+msgstr ""
+
+#: includes/class-semnews-senderphp:207
+msgid "wp_mail returned false"
+msgstr ""
+
+#: admin/views/settingsphp:81
+msgid "— None —"
+msgstr ""
+
+#: includes/class-semnews-linterphp:134
+msgid "✓ Looks good. No subject-line concerns."
+msgstr ""

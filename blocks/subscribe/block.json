@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "quintessential-newsletters/subscribe",
+	"title": "Newsletter Signup",
+	"category": "widgets",
+	"icon": "email-alt",
+	"description": "GDPR-friendly newsletter signup form with double opt-in.",
+	"keywords": [ "newsletter", "subscribe", "email" ],
+	"textdomain": "quintessential-newsletters",
+	"attributes": {
+		"title": {
+			"type": "string",
+			"default": "Subscribe to our newsletter"
+		},
+		"description": {
+			"type": "string",
+			"default": ""
+		},
+		"showName": {
+			"type": "boolean",
+			"default": true
+		},
+		"button": {
+			"type": "string",
+			"default": "Subscribe"
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"editorScript": "semnews-block-editor"
+}

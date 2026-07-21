@@ -1,0 +1,416 @@
+/**
+ * Admin screen styles.
+ */
+.semnews-wrap .semnews-cards {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	margin: 16px 0;
+}
+
+.semnews-card {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 6px;
+	padding: 18px 20px;
+}
+
+.semnews-card-stat {
+	flex: 1 1 160px;
+	display: flex;
+	flex-direction: column;
+}
+
+.semnews-stat-number {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.1;
+}
+
+.semnews-stat-label {
+	color: #646970;
+	margin-top: 4px;
+}
+
+.semnews-stat-link {
+	margin-top: 8px;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.semnews-panel {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 6px;
+	padding: 16px 20px;
+	margin: 16px 0;
+}
+
+.semnews-panel > h2 {
+	margin-top: 0;
+}
+
+.semnews-columns {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	align-items: flex-start;
+}
+
+.semnews-columns > .semnews-panel {
+	flex: 1 1 320px;
+}
+
+/* Usage meter */
+.semnews-meter {
+	background: #f0f0f1;
+	border-radius: 8px;
+	height: 16px;
+	overflow: hidden;
+	max-width: 420px;
+}
+
+.semnews-meter-fill {
+	display: block;
+	height: 100%;
+	background: #2271b1;
+	transition: width .3s ease;
+}
+
+.semnews-meter-fill.is-high {
+	background: #dba617;
+}
+
+/* Compliance checklist */
+.semnews-checklist {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.semnews-checklist li {
+	display: flex;
+	gap: 10px;
+	padding: 8px 0;
+	border-bottom: 1px solid #f0f0f1;
+}
+
+.semnews-checklist .semnews-check-icon {
+	flex: 0 0 22px;
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 22px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.semnews-checklist .is-ok .semnews-check-icon {
+	background: #00a32a;
+}
+
+.semnews-checklist .is-warn .semnews-check-icon {
+	background: #dba617;
+}
+
+.semnews-check-body {
+	display: flex;
+	flex-direction: column;
+}
+
+.semnews-check-body .description {
+	color: #646970;
+}
+
+/* Status pills */
+.semnews-status {
+	display: inline-block;
+	padding: 2px 8px;
+	border-radius: 10px;
+	font-size: 12px;
+	background: #f0f0f1;
+	color: #3c434a;
+}
+
+.semnews-status-subscribed {
+	background: #edfaef;
+	color: #14502a;
+}
+
+.semnews-status-pending {
+	background: #fcf9e8;
+	color: #6b5900;
+}
+
+.semnews-status-unsubscribed,
+.semnews-status-bounced {
+	background: #fcf0f1;
+	color: #8a1f24;
+}
+
+.semnews-failed {
+	color: #b32d2e;
+}
+
+/* Editor layout */
+.semnews-editor .semnews-editor-main {
+	flex: 2 1 480px;
+}
+
+.semnews-editor .semnews-editor-side {
+	flex: 1 1 260px;
+}
+
+.semnews-body-readonly {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	padding: 16px;
+}
+
+/* Pricing */
+.semnews-pricing .semnews-plan {
+	flex: 1 1 280px;
+}
+
+.semnews-plan-pro {
+	border-color: #2271b1;
+}
+
+.semnews-feature-list {
+	list-style: none;
+	margin: 0 0 12px;
+	padding: 0;
+}
+
+.semnews-feature-list li {
+	padding: 6px 0;
+	border-bottom: 1px solid #f0f0f1;
+}
+
+.button-link.delete {
+	color: #b32d2e;
+}
+
+/* Automated-newsletter badge in the campaigns list. */
+.semnews-badge-auto {
+	display: inline-block;
+	margin-left: 6px;
+	padding: 1px 8px;
+	font-size: 11px;
+	font-weight: 600;
+	line-height: 1.6;
+	color: #1d4d7a;
+	background: #e7f1f9;
+	border: 1px solid #c5dcf0;
+	border-radius: 10px;
+	vertical-align: middle;
+}
+
+/* Category / checkbox lists in the automation + build panels. */
+.semnews-checkbox-list label {
+	font-size: 13px;
+}
+
+.semnews-checkbox-box {
+	max-height: 120px;
+	overflow: auto;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	background: #fff;
+	padding: 8px;
+	max-width: 24em;
+}
+
+.semnews-checkbox-box label {
+	display: block;
+	margin: 0 0 4px;
+}
+
+/* Editor-style stacked fields on the Automation screen: short fields share a row. */
+.semnews-field-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 4px 24px;
+	align-items: flex-start;
+}
+
+.semnews-field-row p {
+	margin-bottom: 0;
+}
+
+/* Subject-line linter panel. */
+.semnews-lint-list { margin: 8px 0 0; padding: 0; list-style: none; }
+.semnews-lint-list li { display: flex; gap: 8px; padding: 8px 0; border-bottom: 1px solid #f0f0f1; font-size: 13px; line-height: 1.5; }
+.semnews-lint-list li:last-child { border-bottom: 0; }
+.semnews-lint-icon { flex: 0 0 18px; width: 18px; height: 18px; text-align: center; border-radius: 50%; font-size: 12px; line-height: 18px; color: #fff; }
+.semnews-lint-list .is-warn .semnews-lint-icon { background: #dba617; }
+.semnews-lint-list .is-info .semnews-lint-icon { background: #72aee6; }
+.semnews-lint-ok { color: #2a7d2a; font-weight: 600; }
+
+/* Deliverability status banner. */
+.semnews-deliv-status h2 { margin-top: 0; }
+.semnews-deliv-good { border-left: 4px solid #46b450; }
+.semnews-deliv-warn { border-left: 4px solid #dba617; }
+.semnews-deliv-bad  { border-left: 4px solid #d63638; }
+
+/* Setup wizard steps. */
+.semnews-wizard-steps { display: flex; gap: 12px; list-style: none; margin: 16px 0 24px; padding: 0; }
+.semnews-wizard-steps li { flex: 1; padding: 10px 14px; border: 1px solid #dcdcde; border-radius: 6px; background: #fff; color: #646970; font-weight: 600; }
+.semnews-wizard-steps li.is-current { border-color: #2271b1; color: #1d2327; box-shadow: 0 0 0 1px #2271b1 inset; }
+.semnews-wizard-steps li.is-done { color: #2a7d2a; border-color: #b8e6bf; }
+.semnews-wizard-steps .semnews-step-num { display: inline-block; width: 22px; height: 22px; line-height: 22px; text-align: center; border-radius: 50%; background: #f0f0f1; margin-right: 6px; }
+.semnews-wizard-steps .is-current .semnews-step-num { background: #2271b1; color: #fff; }
+
+/* Soft opt-in attestation note. */
+.semnews-softoptin-note { background: #fcf9e8; border: 1px solid #f0e6b8; border-radius: 4px; padding: 10px 12px; font-size: 12px; line-height: 1.5; }
+
+/* Sender domain-alignment warning. */
+.semnews-domain-warn { color: #b26200; font-size: 12px; font-weight: 600; }
+
+/* Pro previews: framed, consistently structured, linking to the Upgrade page.
+   Only the ghost controls dim — labels and descriptions stay readable. The
+   purple accent matches the Pro badge so the boxes are unmissable. */
+.semnews-pro-teaser {
+	margin: 18px 0;
+	padding: 14px 18px 16px;
+	border: 1px solid #d6cdea;
+	border-left: 4px solid #826eb4;
+	border-radius: 6px;
+	background: #faf8fd;
+	box-shadow: 0 1px 2px rgba(60, 46, 99, 0.06);
+}
+
+.semnews-pro-teaser .semnews-pro-fields {
+	opacity: 0.65;
+	pointer-events: none;
+	user-select: none;
+}
+
+.semnews-pro-teaser p {
+	margin: 10px 0 0;
+}
+
+.semnews-pro-teaser .semnews-pro-teaser-head {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin: 0;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #e8e1f4;
+}
+
+.semnews-pro-teaser .semnews-pro-teaser-head strong {
+	font-size: 14px;
+	color: #3b2f5e;
+}
+
+.semnews-pro-teaser-head .semnews-pro-badge {
+	margin-left: 0;
+}
+
+.semnews-pro-teaser-link {
+	margin-left: auto;
+	padding: 3px 10px;
+	border: 1px solid #b9a9dd;
+	border-radius: 4px;
+	background: #fff;
+	color: #6c59a0;
+	font-size: 12px;
+	font-weight: 600;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+.semnews-pro-teaser-link:hover,
+.semnews-pro-teaser-link:focus {
+	background: #826eb4;
+	border-color: #826eb4;
+	color: #fff;
+}
+
+.semnews-pro-teaser .description {
+	display: block;
+	margin-top: 3px;
+}
+
+.semnews-pro-badge {
+	display: inline-block;
+	margin-left: 6px;
+	padding: 1px 8px;
+	border-radius: 10px;
+	background: #826eb4;
+	color: #fff;
+	font-size: 11px;
+	font-weight: 600;
+	letter-spacing: 0.4px;
+	text-decoration: none;
+	vertical-align: text-bottom;
+}
+
+.semnews-pro-badge:hover,
+.semnews-pro-badge:focus {
+	background: #6c59a0;
+	color: #fff;
+}
+
+/* Informational Pro note: a light, non-interactive pointer to the separate
+   add-on (no disabled controls — it only tells you the feature exists). */
+.semnews-pro-note {
+	margin: 14px 0;
+	padding: 10px 14px;
+	border-left: 3px solid #b9a9dd;
+	background: #faf8fd;
+	border-radius: 4px;
+}
+
+.semnews-pro-note p {
+	margin: 0;
+	color: #50575e;
+	font-size: 13px;
+	line-height: 1.6;
+}
+
+.semnews-pro-note .semnews-pro-badge {
+	margin-left: 0;
+	margin-right: 4px;
+}
+
+.semnews-pro-list {
+	margin: 8px 0 12px 18px;
+	list-style: disc;
+}
+
+/* The dashboard's "Go further with Pro" column: purple-accented like the
+   teasers, with a tighter list so it doesn't dwarf its neighbours. */
+.semnews-panel-pro {
+	border-color: #d6cdea;
+	border-left: 4px solid #826eb4;
+	background: #faf8fd;
+}
+
+.semnews-panel-pro .semnews-panel-pro-head {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	color: #3b2f5e;
+}
+
+.semnews-panel-pro .semnews-pro-list-compact {
+	margin: 4px 0 12px 16px;
+}
+
+.semnews-panel-pro .semnews-pro-list-compact li {
+	padding: 3px 0;
+	font-size: 13px;
+}
+
+/* Pro pricing block on the Upgrade screen. */
+.semnews-price { margin: 0 0 2px; line-height: 1; }
+.semnews-price-amount { font-size: 38px; font-weight: 700; color: #1d2327; }
+.semnews-price-period { font-size: 16px; color: #646970; }
+.semnews-price-note { margin: 0 0 14px; color: #646970; font-size: 13px; }
+
+/* Jurisdiction disclaimer under the compliance checklist. */
+.semnews-compliance-note { margin-top: 12px; padding-top: 10px; border-top: 1px solid #f0f0f1; font-size: 12px; line-height: 1.55; }

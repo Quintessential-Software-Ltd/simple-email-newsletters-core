@@ -1,0 +1,13 @@
+license-server/ export-ignore
+.gitattributes export-ignore
+tests/ export-ignore
+.github/ export-ignore
+ROLLBACK.md export-ignore
+bin/ export-ignore
+WPORG-COMPLIANCE.md export-ignore
+addons/ export-ignore
+STRIPE-SETUP.md export-ignore
+CLAUDE.md export-ignore
+README.md export-ignore
+.gitignore export-ignore
+.editorconfig export-ignore
