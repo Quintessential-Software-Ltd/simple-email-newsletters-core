@@ -1,0 +1,27 @@
+/**
+ * RTL overrides for the admin styles. Loaded automatically by WordPress on RTL
+ * locales via wp_style_add_data( 'semnews-admin', 'rtl', 'replace' ).
+ */
+
+.semnews-badge-auto { margin-left: 0; margin-right: 6px; }
+
+.semnews-deliv-good { border-left: 0; border-right: 4px solid #46b450; }
+.semnews-deliv-warn { border-left: 0; border-right: 4px solid #dba617; }
+.semnews-deliv-bad  { border-left: 0; border-right: 4px solid #d63638; }
+
+.semnews-wizard-steps .is-current .semnews-step-num,
+.semnews-wizard-steps .semnews-step-num { margin-right: 0; margin-left: 6px; }
+
+.semnews-pro-badge { margin-left: 0; margin-right: 6px; }
+
+.semnews-pro-teaser { border-left: 1px solid #d6cdea; border-right: 4px solid #826eb4; }
+
+.semnews-pro-teaser-link { margin-left: 0; margin-right: auto; }
+
+.semnews-pro-list { margin: 8px 18px 12px 0; }
+
+.semnews-panel-pro { border-left: 1px solid #d6cdea; border-right: 4px solid #826eb4; }
+
+.semnews-panel-pro .semnews-pro-list-compact { margin: 4px 16px 12px 0; }
+.semnews-pro-note { border-left: 0; border-right: 3px solid #b9a9dd; }
+.semnews-pro-note .semnews-pro-badge { margin-right: 0; margin-left: 4px; }

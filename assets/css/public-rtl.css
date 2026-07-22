@@ -1,0 +1,8 @@
+/**
+ * RTL overrides for the front-end signup form. Loaded automatically by
+ * WordPress on RTL locales via wp_style_add_data( 'semnews-public', 'rtl', 'replace' ).
+ */
+
+.semnews-form,
+.semnews-newsletter-form { direction: rtl; text-align: right; }
+.semnews-form .semnews-field-consent label { text-align: right; }

@@ -1,0 +1,99 @@
+/**
+ * Front-end form styles. Deliberately light so themes can override easily.
+ */
+.semnews-form-wrap {
+	max-width: 480px;
+	margin: 1em 0;
+}
+
+.semnews-form-title {
+	margin: 0 0 .25em;
+}
+
+.semnews-form-description {
+	margin: 0 0 1em;
+	opacity: .85;
+}
+
+.semnews-form .semnews-field {
+	margin: 0 0 .85em;
+}
+
+.semnews-form label {
+	display: block;
+	font-weight: 600;
+	margin-bottom: .25em;
+}
+
+.semnews-form .semnews-field-consent label {
+	font-weight: 400;
+	display: flex;
+	align-items: flex-start;
+	gap: .5em;
+}
+
+.semnews-form input[type="email"],
+.semnews-form input[type="text"] {
+	width: 100%;
+	padding: .6em .7em;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	font-size: 1rem;
+	box-sizing: border-box;
+}
+
+.semnews-form .semnews-field-consent input {
+	margin-top: .3em;
+}
+
+.semnews-form .semnews-required {
+	color: #b32d2e;
+}
+
+.semnews-form .semnews-submit {
+	background: #2271b1;
+	color: #fff;
+	border: 0;
+	border-radius: 4px;
+	padding: .65em 1.4em;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+.semnews-form .semnews-submit:hover {
+	background: #135e96;
+}
+
+.semnews-form .semnews-submit.is-busy {
+	opacity: .6;
+	cursor: default;
+}
+
+.semnews-message,
+.semnews-form-feedback {
+	margin: .5em 0;
+	padding: .6em .8em;
+	border-radius: 4px;
+}
+
+.semnews-message:empty,
+.semnews-form-feedback:empty {
+	display: none;
+	padding: 0;
+	margin: 0;
+}
+
+.semnews-message-success,
+.semnews-message.semnews-message-success {
+	background: #edfaef;
+	border: 1px solid #b8e6bf;
+	color: #14502a;
+}
+
+.semnews-message-error,
+.semnews-message.semnews-message-error {
+	background: #fcf0f1;
+	border: 1px solid #f0c2c4;
+	color: #8a1f24;
+}
+.semnews-inline-placement { margin: 32px 0; }

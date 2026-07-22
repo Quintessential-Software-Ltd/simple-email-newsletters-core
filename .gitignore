@@ -1,0 +1,25 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Build artifacts
+*.zip
+/dist/
+/build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs & local config
+*.log
+.env
+.env.*
+
+# PHPUnit / coverage
+.phpunit.result.cache
+/coverage/
